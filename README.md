@@ -4,7 +4,7 @@
 ![image](https://user-images.githubusercontent.com/83543768/207245733-6873c8ae-05a2-42b9-8439-c35db1a51185.png)
 
 
-
+### normalFetching_Posting
 ```js
 #ifdef ESP32
   #include <WiFi.h>
