@@ -24,7 +24,7 @@ const char* ssid     = "replace with your WiFi ssid";
 const char* password = "replace with your WiFi password";
 
 // REPLACE with your Domain name and URL path or IP address with path
-const char* serverName = "http://ip_address/sensordata/post-esp-data.php";
+const char* serverName = "http://thinkspeak-implementation-api.onrender.com/post";
 
 // Keep this API Key value to be compatible with the PHP code provided in the project page. 
 // If you change the apiKeyValue value, the PHP file /post-esp-data.php also needs to have the same key 
