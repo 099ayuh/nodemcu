@@ -16,10 +16,10 @@
 #endif
 #include <Wire.h>
 #define ln D2
-const char* ssid     = "Subhamoy";
-const char* password = "PASS020302";
+const char* ssid     = "Wifi name";
+const char* password = "Wifi password";
 WiFiClient wifiClient;
-String serverName = "http://192.168.1.3:3000/POST";
+String serverName = "http://ipv4 address:3000/POST";
 String apiKeyValue = "tPmAT5Ab3j7F9";
 String sensorName = "BME280";
 String sensorLocation = "My Room";
